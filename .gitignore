@@ -523,8 +523,11 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+ProEventos.db
+ProEventos.sqbpro
 
 #Excluindo DB
 *.db
 *.db-shm
 *.db-wal
+Back/src/ProEventos.API/ProEventos.db
